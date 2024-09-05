@@ -16,6 +16,8 @@ botaoPesquisa.addEventListener('click', () => {
 async function exibirPassoAPasso() {
   const itemResultado = document.createElement('div');
 
+  document.getElementById('loader').style.display = 'block';
+
   // Construindo o prompt
   let prompt = `
     Você é um resolvedor de problema e deve apresentar um passo a passo para o problema:
