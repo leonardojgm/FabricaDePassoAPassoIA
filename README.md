@@ -17,3 +17,12 @@ Um Resolvedor de problemas com passo a passo.
 ![image](https://github.com/user-attachments/assets/d1d9cd41-a65c-4bce-93c0-a4bc9e2262d9)
 
 Para testar: https://fabrica-de-passo-a-passo-ia.vercel.app/
+
+Ideia:
+
+Resolvedor de problemas com passo a passo
+
+	- Solicitar um problema
+	- Exibir um passo a passo sobre o problema
+	- Questionar se funcionou.
+	- Registrar satisfação.
